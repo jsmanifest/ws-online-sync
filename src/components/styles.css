@@ -1,0 +1,10 @@
+div.wsc-container {
+  padding: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+div.wsc-container > div:first-child {
+  text-align: center;
+}

@@ -1,0 +1,20 @@
+div.button-controls {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.button-controls button {
+  outline: none;
+  cursor: pointer;
+  margin-right: 6px;
+  background: #2e3d4d;
+  border: 1px solid #2e3d4d;
+  color: #fff;
+  padding: 10px;
+}
+
+div.button-controls button:hover {
+  background: #222a33;
+}
